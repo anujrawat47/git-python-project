@@ -64,16 +64,22 @@ git push -u origin main
 ```
 ---
 ## Screenshots
+### image 1
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000246.png?raw=true)
 
+### image 2
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000422.png?raw=true)
 
+### image 3
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000448.png?raw=true)
 
+### image 4
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000503.png?raw=true)
 
+### image 5
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000516.png?raw=true)
 
-
-
-
-
-
-
-
-
+### image 6
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000545.png?raw=true)
+### image 7
+![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000611.png?raw=true)
