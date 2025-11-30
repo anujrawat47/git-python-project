@@ -84,6 +84,16 @@ git push -u origin main
 ### image 7
 ![image alt](https://github.com/anujrawat47/git-python-project/blob/main/Screenshot%202025-12-01%20000611.png?raw=true)
 
+### **Challenges Faced**
+
+- Understanding how merge conflicts occur and how to resolve them.
+
+- Remembering correct Git commands for staging and committing.
+
+- Managing multiple branches without confusion.
+
+- Ensuring proper commit messages and clean history.
+
 ### **Conclusion**
 
 This project helped me understand essential Git concepts:
