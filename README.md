@@ -88,9 +88,9 @@ git push -u origin main
 
 This project helped me understand essential Git concepts:
 
-✔ Working directory vs staging area
-✔ Committing changes
-✔ Creating and switching branches
-✔ Merging and resolving conflicts
-✔ Setting up GitHub remote and pushing code
-✔ Writing documentation using Markdown
+- Working directory vs staging area
+- Committing changes
+- Creating and switching branches
+- Merging and resolving conflicts
+- Setting up GitHub remote and pushing code
+- Writing documentation using Markdown
