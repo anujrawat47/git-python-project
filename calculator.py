@@ -43,3 +43,4 @@ if __name__ == "__main__":
 #Menu display function added
 # Addition operation implemented
 # Subtraction operation added
+# Multiplication operation added
