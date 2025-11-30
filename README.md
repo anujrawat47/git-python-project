@@ -52,7 +52,7 @@ git checkout feature
 git checkout main
 git merge feature
 ```
-### **6. Merge Conflict Demo**
+### **6. Merge Conflict was there**
 Edit same line in two branches → merge → resolve → commit.
 ### **7. Add Remote GitHub Repo**
 ```
