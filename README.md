@@ -1,7 +1,7 @@
 #  Git Version Control Project — Python Calculator
 
 ##  Introduction
-This project demonstrates complete end-to-end usage of **Git** and **GitHub** for version control.  
+This project demonstrates complete usage of **Git** and **GitHub** for version control.  
 The objective was to create a simple Python-based calculator program and use Git to track changes, commit updates, create multiple branches, resolve conflicts, and finally push the repository to GitHub.
 
 This README includes all Git commands used, screenshots placeholder sections, challenges faced, and a conclusion summarizing the learning outcomes.
